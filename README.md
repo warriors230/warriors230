@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hola 👋 Soy Bairon Quiñones
 
-<!--
-**warriors230/warriors230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer enfocado en desarrollo de aplicaciones escalables con Java, Spring Boot y Angular.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y herramientas
+
+### Backend
+- Java
+- Spring Boot
+- REST APIs
+- JWT Authentication
+- Microservices
+
+### Frontend
+- Angular
+- TypeScript
+- HTML
+- CSS
+- PrimeNG
+
+### Bases de datos
+- PostgreSQL
+- MySQL
+- SQL Server
+- MongoDb
+- Firebase
+
+### DevOps & Cloud
+- Docker
+- AWS
+- Git
+- Linux
+
+### Otras tecnologías
+- Kafka
+- Redis
+
+---
+
+## 📌 Actualmente
+
+- Desarrollando un ERP comercial multiempresa
+- Aprendiendo arquitectura cloud con AWS
+- Mejorando habilidades en microservicios y escalabilidad
+- Buscando oportunidades como Full Stack Developer
+
+---
+
+## 🎓 Formación académica
+
+- Ingeniero de Sistemas  
+- Especialista en Gestión de Bases de Datos  
+- Institución Universitaria Antonio José Camacho
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: https://www.linkedin.com/in/bairon-quinones
+- Email: baironduvan1998@hotmail.com
+
+---
+
+⭐ Siempre interesado en construir soluciones empresariales escalables y de alto rendimiento.
