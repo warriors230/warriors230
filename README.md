@@ -8,8 +8,6 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=warriors230&show_icons=true)
-
 ## 🚀 Tecnologías y herramientas
 
 ### Backend
